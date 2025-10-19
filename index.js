@@ -1,6 +1,3 @@
-  
-                  SILA-MD 
-
 require('./settings')
 const { Boom } = require('@hapi/boom')
 const fs = require('fs')
